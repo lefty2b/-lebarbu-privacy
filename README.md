@@ -1,2 +1,2 @@
-# -lebarbu-privacy
+# lebarbu-privacy
     Privacy Policy for Le Barbu
